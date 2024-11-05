@@ -110,7 +110,7 @@ Each visual in the Power BI dashboard was designed with interactivity in mind:
 ![Capstone Project PowerBI SalesData](https://github.com/user-attachments/assets/1c9e2f92-bfc5-497f-8e05-9afea2974b89)
 
 ## Conclusion
-The analysis of the sales dataset provided valuable insights into product performance, regional sales distribution, and customer purchasing behavior. 
+The analysis of the sales dataset provided valuable insights into product performance, regional sales distribution, and customer purchasing behavior, it provides valuable insights into the trends and patterns of product sales over a defined period.
 
 
 
